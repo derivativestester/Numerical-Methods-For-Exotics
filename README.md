@@ -22,7 +22,7 @@ Table of Contents:
         - Barrier Options via Crank-Nicolson
         - Barrier Options via Monte Carlo
     - Correlation Products
-        - Worst-of Put Options
+        - Worst-of Options via Monte Carlo
         - Dispersion Options
 
 Notes on the Project:
